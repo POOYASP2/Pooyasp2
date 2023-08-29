@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pooya </h1>
 <h3 align="center">Frontend Developer</h3>
-- 🌱 I’m currently learning **React and Testing**
-- 💬 Ask me about **React and Vue**
-- 📫 How to reach me **Pooyasharifi.sp2@gmail.com**
+
 
 <div> <a href="https://github.com/pooyasp2" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:Pooyasharifi.sp2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
