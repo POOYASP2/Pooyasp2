@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pooya </h1>
+
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Pooya </h1>
 <h3 align="center">Frontend Developer</h3>
 
 
@@ -24,3 +26,5 @@
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooyasp2&langs_count=8&theme=react" alt=pooyasp2 />
+
+</div>
