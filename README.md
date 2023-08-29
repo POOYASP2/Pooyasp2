@@ -23,14 +23,4 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooyasp2&layout=compact&theme=neon-dark" alt=pooyasp2 />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/pooyasp2">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pooyasp2&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pooyasp2&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pooyasp2&theme=nightowl" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pooyasp2&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pooyasp2&theme=2077" height="180em" />
-</div>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooyasp2&langs_count=8&theme=react" alt=pooyasp2 />
