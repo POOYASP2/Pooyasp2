@@ -1,13 +1,12 @@
-
-<div align="center">
-  <h1 align="center">Hi 👋, I'm Pooya </h1>
+<h1 align="center">Hi 👋, I'm Pooya </h1>
 <h3 align="center">Frontend Developer</h3>
-
+- 💬 Ask me about **React and Vue**
+- 📫 How to reach me **Pooyasharifi.sp2@gmail.com**
 
 <div> <a href="https://github.com/pooyasp2" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:Pooyasharifi.sp2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 >Languages and Tools:</h3>
-<p >
+</div><h3 align="center">Languages and Tools:</h3>
+<p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/vuejs-original-wordmark.svg" alt="Vuejs" width="40" height="40"/>
@@ -24,7 +23,15 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 >Stars</h3>
-<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooyasp2&langs_count=8&theme=react" alt=pooyasp2 />
+<h3 align="center">Stars</h3>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooyasp2&langs_count=8&theme=default" alt=pooyasp2 />
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/pooyasp2">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pooyasp2&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pooyasp2&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pooyasp2&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pooyasp2&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pooyasp2&theme=2077" height="180em" />
 </div>
