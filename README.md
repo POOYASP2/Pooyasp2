@@ -11,6 +11,7 @@ Software developer turned cybersecurity student, based in Turin, Italy. I like t
 
 | Project | What it is |
 |---|---|
+| [Sandwich ordering app](https://github.com/POOYASP2/sandwich-ordering-app) | Full-stack web app (React, Express, SQLite) with login, TOTP two-factor auth, daily limits and refunds |
 | [DDoS attack detection](https://github.com/POOYASP2/DDoS-attacks-detection) | ML pipeline that detects DDoS attacks in network flows and groups them into attack families |
 | [Timeline scheduler for FreeRTOS](https://github.com/POOYASP2/precise_timeline_scheduler_for_FreeRTOS) | Deterministic, time-triggered scheduler for FreeRTOS, tested in QEMU |
 | [pooyasp2.github.io](https://github.com/POOYASP2/pooyasp2.github.io) | My personal site: Hugo, a custom man-page theme, deployed by GitHub Actions |
